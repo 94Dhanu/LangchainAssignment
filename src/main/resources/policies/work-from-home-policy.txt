@@ -1,0 +1,31 @@
+WORK FROM HOME (WFH) POLICY
+
+1. Eligibility
+Employees who have completed 6 months of service and hold roles that can be performed
+remotely are eligible for work from home. Customer-facing and lab-based roles require
+on-site presence and are not eligible.
+
+2. Hybrid Schedule
+The company follows a hybrid model. Eligible employees may work from home up to
+3 days per week. Employees must be present in the office at least 2 days per week,
+on days decided by the team.
+
+3. Request Process
+WFH days must be marked in the HRMS portal at least one day in advance. Occasional
+full-remote weeks require manager approval. Employees on probation may work from
+home at most 1 day per week.
+
+4. Availability
+During WFH, employees must be reachable on company chat and email during core hours
+(11:00 AM to 4:00 PM) and must attend all scheduled meetings with video enabled
+unless otherwise agreed with the manager.
+
+5. Equipment and Internet
+The company provides a laptop and a one-time home-office setup allowance of Rs 15,000.
+A monthly internet reimbursement of Rs 1,000 is paid to employees who WFH at least
+8 days per month. Employees are responsible for maintaining a reliable connection.
+
+6. Security Requirements
+When working remotely, employees must connect through the company VPN, keep the
+endpoint security agent running, and must not store confidential data on personal
+devices or public cloud storage.

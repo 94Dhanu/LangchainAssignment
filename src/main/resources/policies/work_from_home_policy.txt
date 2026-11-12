@@ -1,0 +1,27 @@
+WORK FROM HOME POLICY
+
+1. Eligibility
+Employees who have completed at least 6 months of service and whose roles can be
+performed remotely are eligible for work from home (WFH). Eligibility is determined by
+the reporting manager and HR.
+
+2. WFH Allowance
+Eligible employees may work from home up to 2 days per week under the hybrid work
+model. Fully remote arrangements require approval from the department head.
+
+3. Availability
+During WFH days, employees must be reachable on company chat and email during core
+hours (10:30 AM to 4:30 PM) and must attend all scheduled meetings by video call.
+
+4. Equipment and Internet
+The company provides a laptop and a monthly internet allowance of 40 USD for approved
+WFH employees. Employees are responsible for a secure workspace and a reliable
+internet connection of at least 25 Mbps.
+
+5. Security Requirements
+Employees must use the company VPN when accessing internal systems, keep devices
+encrypted and locked when unattended, and must not use public Wi-Fi without VPN.
+
+6. Requesting WFH
+WFH days must be requested in the HR portal at least one day in advance and approved
+by the reporting manager. WFH requests can be revoked during critical business periods.
